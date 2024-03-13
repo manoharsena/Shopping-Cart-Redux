@@ -49,4 +49,4 @@ This repository is for Shopping Cart app using Redux!.
 
 ## Netlify Link
 
-To view the shopping cart app in browser [Click Here](https://shopping-cart-3411.netlify.app/)
+To view the shopping cart app in browser [Click Here](https://redux-cart-3411.netlify.app/)
