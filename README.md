@@ -23,7 +23,7 @@ This repository is for Shopping Cart app using Redux!.
 1. **Clone the repository:**
 
     ```bash
-   https://github.com/manoharsena/Shopping-Cart-Redux
+   git clone https://github.com/manoharsena/Shopping-Cart-Redux.git
     ```
 
 2. **Navigate to the project directory:**
@@ -45,7 +45,7 @@ This repository is for Shopping Cart app using Redux!.
     ```
 
 ## Screenshot
-
+![Output](public/image/Screenshot.png)
 
 ## Netlify Link
 
