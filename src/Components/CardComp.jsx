@@ -66,10 +66,10 @@ const CardComp = () => {
     <div>
       <NavBar totalCartQuantity={totalCartQuantity} />
 
-      <div className="container-fluid bg-info h-10 sticky-top d-flex justify-content-evenly align-items-center p-3 bg-success">
+      <div className="container-fluid bg-secondary h-10 sticky-top d-flex justify-content-evenly align-items-center p-3">
         <h3>Total Price: ${totalPrice}</h3>
         <h3>Total Quantity: {totalCartQuantity}</h3>
-        <button className="btn btn-success">proceed to pay</button>
+        <button className="btn btn-danger">proceed to pay</button>
       </div>
 
       {blogs.map((item, index) => {
